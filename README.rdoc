@@ -9,9 +9,9 @@ live.  Testing is essential in your quest to learn and do great things in Ruby.
 == The Structure
 git 
 The koans are broken out into areas by file, hashxxxdddes are covered in +about_hashes.rb+,
-modules are introduced in +about_modules.rb+, <em>etc</em>.  They are presented in
+modules are introduced isssssssssn +about_modules.rb+, <em>etc</em>.  They are presented in
 order in the +path_to_enlightenment.rb+ file.
-
+sssss
 Each koan builds up your knowledge of Ruby and builds upon itself. It will stop at
 the first place you need to correct.
 
